@@ -1,4 +1,5 @@
 streamlit
 sqlite3
 streamlit_option_menu
+option_menu
 pandas
